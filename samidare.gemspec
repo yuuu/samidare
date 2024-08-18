@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = 'samidare is an MQTT Broker coded in Ruby'
   spec.description = 'The Broker is MQTT Version 5.0 compliant, coded using Ruby, and is extensible.'
   spec.homepage = 'https://github.com/yuuu/samidare'
-  spec.required_ruby_version = '>= 3.0.0'
+  spec.required_ruby_version = '>= 3.3.0'
 
   spec.metadata['homepage_uri'] = spec.homepage
   spec.metadata['source_code_uri'] = 'https://github.com/yuuu/samidare'
